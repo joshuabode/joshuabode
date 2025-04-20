@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabode&label=Profile%20views&color=0e75b6&style=flat" alt="joshuabode" /> </p>
 
-- 🏎️ I’m currently working on [Autonomous Vehicle Software](https://github.com/SarpHarbali/FSAI)
+- 🏎️ I’m currently working on [Autonomous Vehicle Software](https://github.com/SarpHarbali/FSAI), as part of IMechE's Formula Student AI Challenge
 
 - 🌱 I’m currently learning **DevOps, C and C++**
 
-- 🦾 And also building [RoboSoc's ARM Software](https://github.com/jalliet/poker-robot-arm-24-25)
+- 🦾 And also building [RoboSoc's ARM Software](https://github.com/jalliet/poker-robot-arm-24-25), to get a robot to deal (and maybe play) poker
 
-- 🏛️ While developing [QuietCorner](https://github.com/joshuabode/quietcorner)
+- 🏛️ While developing [QuietCorner](https://github.com/joshuabode/quietcorner), a student experience app to monitor occupancy of study spaces
 
 - 💬 Ask me about **Python or React**
 
