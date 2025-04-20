@@ -9,7 +9,7 @@
 
 - 🦾 And also building [RoboSoc's ARM Software](https://github.com/jalliet/poker-robot-arm-24-25), to get a robot to deal (and maybe play) poker
 
-- 🏛️ While developing [QuietCorner](https://github.com/joshuabode/quietcorner), a student experience app to monitor occupancy of study spaces
+- 🏛️ While developing [QuietCorner](https://quietcorner.uk), a student experience app to monitor occupancy of study spaces
 
 - 💬 Ask me about **Python or React**
 
