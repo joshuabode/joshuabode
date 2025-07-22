@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joshua Bode</h1>
-<h3 align="center">An Undergraduate Software Engineer</h3>
+<h1 align="center">Hi 👋🏾, I'm Joshua Bode</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabode&label=Profile%20views&color=0e75b6&style=flat" alt="joshuabode" /> </p>
 
+- **🌞 This summer I'm interning at Finimize 💸**
+    - My recent activity is on my [work account](https://github.com/joshuabode-fmz) 
+<!--
 - 🏎️ I’m currently working on [Autonomous Vehicle Software](https://github.com/SarpHarbali/FSAI), as part of IMechE's Formula Student AI Challenge
 
 - 🌱 I’m currently learning **DevOps, C and C++**
@@ -10,6 +13,7 @@
 - 🦾 And also building [RoboSoc's ARM Software](https://github.com/jalliet/poker-robot-arm-24-25), to get a robot to deal (and maybe play) poker
 
 - 🏛️ While developing [QuietCorner](https://quietcorner.uk), a student experience app to monitor occupancy of study spaces
+-->
 
 - 💬 Ask me about **Python or React**
 
