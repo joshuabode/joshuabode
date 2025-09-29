@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuabode&label=Profile%20views&color=0e75b6&style=flat" alt="joshuabode" /> </p>
 
-- **🌞 This summer I'm interning at Finimize 💸**
-    - My recent activity is on my [work account](https://github.com/joshuabode-fmz) 
+- **🌞 This summer I interned at Finimize 💸**
+    - Check out my [work account](https://github.com/joshuabode-fmz)'s contribution graph
 <!--
 - 🏎️ I’m currently working on [Autonomous Vehicle Software](https://github.com/SarpHarbali/FSAI), as part of IMechE's Formula Student AI Challenge
 
@@ -15,9 +15,9 @@
 - 🏛️ While developing [QuietCorner](https://quietcorner.uk), a student experience app to monitor occupancy of study spaces
 -->
 
-- 💬 Ask me about **Python or React**
+- 💬 Ask me about **Python** or **React**
 
-- 📫 How to reach me **[me@joshua-bode.com](mailto:me@joshua-bode.com)**
+- 📫 Send an email to: **[me@joshua-bode.com](mailto:me@joshua-bode.com)**
 
 - 📄 Know about my experiences [here](https://joshua-bode.com/resume.pdf)
 
